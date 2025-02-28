@@ -142,7 +142,7 @@ todo-application/
 ---
 
 ## 👨‍👩‍👧 **Contributors**  
-**Your Name** - [GitHub](https://github.com/yourusername)  
+**Thuwarakan** - [GitHub](https://github.com/thuwarakan123)  
 
 🙌 **Contributions are welcome!** Fork the repo & create a PR.  
 ```
